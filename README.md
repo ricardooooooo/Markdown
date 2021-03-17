@@ -18,3 +18,6 @@ Breve descrição introdutória do trabalho a realizar
 * Requísito 1
 * Requísito 2
 * Requísito 3
+
+*Itálico*
+**Negrito**
