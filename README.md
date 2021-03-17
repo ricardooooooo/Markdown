@@ -28,7 +28,7 @@ Breve descrição introdutória do trabalho a realizar
 [GitHub](https://github.com/)
 
 ## Imagens do Projeto
-![Logo](https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fview%2Fpeepo-juice-spin-pepojuicespin-juice-spin-peepo-spin-gif-19719206&psig=AOvVaw0MqvlRmZQhkLhOqEtcVGJd&ust=1616065584264000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCKjD7sqXt-8CFQAAAAAdAAAAABAD)
+![Logo](https://media1.tenor.com/images/f26aec0a6bfdb3f1e23220539408556f/tenor.gif?itemid=19719206)
 
 
 *Itálico*
