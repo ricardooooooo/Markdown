@@ -19,5 +19,13 @@ Breve descrição introdutória do trabalho a realizar
 * Requísito 2
 * Requísito 3
 
+## Lista de Tarefas
+1. Tarefa - [x] - concluída
+2. Tarefa - [] - por realizar
+3. Tarefa - [] - por realizar
+
+## Links do Projeto
+[GitHub](https://github.com/)
+
 *Itálico*
 **Negrito**
